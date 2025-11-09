@@ -1,0 +1,5 @@
+.env 
+.history
+__pycache__/
+*.bz2
+*.zst
